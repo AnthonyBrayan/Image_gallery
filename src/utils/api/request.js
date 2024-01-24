@@ -8,7 +8,7 @@ Object.freeze({
     200:"ok",
     400:"Bad Request", //Petición incorrectamente o mala petición
     401:"Unauthorized", //Petición no autorizado
-    404:"Not fount", //Petición no encontrado
+    404:"Not found", //Petición no encontrado
     422:"Unprocedessable entity", //Entidad no procesable
     500:"Internal Server" //Error interno del servidor
 });
